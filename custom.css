@@ -1,0 +1,41 @@
+.todo-main {
+  margin: 20px auto;
+  width: 500px;
+  border: 5px solid gray;
+  padding: 20px;
+  min-height: 500px;
+  border-radius: 5px;
+}
+.todoInput {
+  width: 300px;
+  height: 40px;
+  border: 2px solid gray;
+  border-radius: 3px;
+  border-left-color: white;
+  border-right-color: white;
+}
+.btn {
+  border-radius: 5px;
+  width: 125px;
+  margin-left: 10px;
+  height: 40px;
+  background-color: gray;
+  color: black;
+  font-size: 16px;
+}
+
+.removeTodo {
+  margin-right: 20px;
+  outline: none;
+  border: 2px solid gray;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  padding: 2px;
+}
+
+.wrapper {
+  border-bottom: 1px solid gray;
+  margin-bottom: 10px;
+  text-align:left;
+  width: 300px;
+}
